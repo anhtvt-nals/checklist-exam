@@ -44,7 +44,7 @@ Allow users to browse, search, and filter beauty campaigns based on various cond
 | TC13 | Pagination – go back                     | Click page 1                     | Load previous 20 campaigns                                     |                            |
 | TC14 | Click campaign card                      | Click on any campaign            | Redirect to that campaign's detail page                        | Navigation test            |
 | TC15 | Reset all filters                        | Apply filters → Click reset      | All filters cleared, list resets to newest campaigns           | Restore default            |
-| TC16 | No filters selected                      | Leave all filters blank          | Show all campaigns                                             | Blank = no filtering       |                                                                                 | New campaigns from page 2 are shown                                            |
+| TC16 | No filters selected                      | Leave all filters blank          | Show all campaigns                                             | Blank = no filtering       |
 
 ---
 
