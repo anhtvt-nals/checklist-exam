@@ -61,7 +61,6 @@ Allow users to browse, search, and filter beauty campaigns based on various cond
 | TC23 | No campaign image                          | Campaign with missing image                    | Show default/placeholder image                   | Graceful fallback         |
 | TC24 | Campaign name too long                     | Name > 100 characters                          | Name truncated with ellipsis in UI               | UI constraint             |
 | TC25 | All filters combined yield no result       | Prefecture: A, City: B, Category: C (no match) | Show “No campaigns found”                        | Logical combination error |
-                                                  | All filters and selections are reset                                           |
 
 ---
 
